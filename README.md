@@ -2,7 +2,6 @@
 Analisis Produksi Pinang Field
 
 ## Repository Outline
-`Bagian ini menjelaskan secara singkat konten/isi dari file yang dipush ke repository`
 ```
 1. README.md - Penjelasan gambaran umum project
 2. Analisis.ipynb - Notebook yang berisi pengolahan data dengan python
