@@ -12,7 +12,10 @@ dst.
 
 ## Problem Background
 ```
-Analisis sebuah lapangan migas perlu dilakukan sebelum lapangan tersebut akan didevelopment untuk menentukan strategi yang akan dilakukan terhadap lapangan tersebut. Pada case ini akan dilakukan analisis terhadap lapangan pinang field guna mengumpulkan berbagai informasi atau insight dari lapangan ini, namun informasi dari lapangan ini sangat terbatas hanya berupa produksi minyak dan air harian tanpa ada data reservoir dan development apa saja yang telah dilakukan terhadap lapangan ini, sehingga analisis kali ini hanya berfokus pada trend dari produksi lapangan pinang
+Analisis sebuah lapangan migas perlu dilakukan sebelum lapangan tersebut akan didevelopment untuk menentukan strategi yang akan dilakukan terhadap lapangan tersebut.
+Pada case ini akan dilakukan analisis terhadap lapangan pinang field guna mengumpulkan berbagai informasi atau insight dari lapangan ini,
+namun informasi dari lapangan ini sangat terbatas hanya berupa produksi minyak dan air harian tanpa ada data reservoir dan development apa saja yang telah dilakukan terhadap lapangan ini,
+sehingga analisis kali ini hanya berfokus pada trend dari produksi lapangan pinang
 ```
 
 ## Project Output
