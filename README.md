@@ -22,7 +22,8 @@ link : https://public.tableau.com/views/P0M1_ahmadkurniawan/Dashboard1?:language
 ```
 
 ## Method
-'''pada projek ini dilakukan analisis untuk menjawab pertanyaan 
+'''
+pada projek ini dilakukan analisis untuk menjawab pertanyaan 
 1. Berapa total produksi setiap sumur
 2. Cek persebaran data (normal atau tidak normal)
 3. Bagaimana hubungan produksi minyak dan air dari pinang field
@@ -30,4 +31,7 @@ link : https://public.tableau.com/views/P0M1_ahmadkurniawan/Dashboard1?:language
 5. Bagaimana trend penurunan produksi minyak terhadap waktu
 6. Menentukan sumur dengan potensi produksi terbaik berdasarkan watercut
 '''
-
+## Stack
+- pandas
+- scipy.stats
+- matplotlib
